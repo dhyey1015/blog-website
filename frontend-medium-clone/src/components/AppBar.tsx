@@ -5,7 +5,7 @@ export function AppBar(){
     return(
         <div className="border-b border-slate-200 flex justify-between px-10 py-4">
             <Link to={'/blogs'} className="flex flex-col justify-center text-4xl font-bold cursor-pointer">        
-                    Medium
+                    Dhyey Blogs 
             </Link>
             
             <div>
